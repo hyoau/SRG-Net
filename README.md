@@ -26,13 +26,8 @@
 
 ### Results on Terracotta Warriors
 
-<img src="./result/1.png" width = "150" height = "250" alt="图片名称" align=center />
+<img src="./result/1.png" style="zoom:33%;" /> <img src="./result/2.png" style="zoom:33%;" /> <img src="./result/3.png" style="zoom:33%;" /> <img src="./result/4.png" style="zoom:33%;" />
 
-<img src="./result/2.png" width = "150" height = "250" alt="图片名称" align=center />
-
-<img src="./result/3.png" width = "150" height = "250" alt="图片名称" align=center />
-
-<img src="./result/4.png" width = "150" height = "250" alt="图片名称" align=center />
 
 ### Results on ShapeNet
 

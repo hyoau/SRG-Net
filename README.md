@@ -26,9 +26,12 @@
 
 ### Results on Terracotta Warriors
 
-<div align="center">
-<img src="./result/1.png" style="zoom:25%;" /> <img src="./result/2.png" style="zoom:25%;" /> <img src="./result/3.png" style="zoom:25%;" /> <img src="./result/4.png" style="zoom:25%;" />
-</div>
+<p float="left">
+    <img src="./result/1.png" style="zoom:33%;" /> 
+    <img src="./result/2.png" style="zoom:33%;" /> 
+    <img src="./result/3.png" style="zoom:33%;" /> 
+    <img src="./result/4.png" style="zoom:33%;" />
+</p>
 
 ### Results on ShapeNet
 
